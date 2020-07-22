@@ -1,0 +1,6 @@
+{
+    "name": "Google doc to trello",
+    "version": "1.0",
+    "description": "Create trello cards by selecting the line from google docs",
+    "manifest_version": 2
+  }
